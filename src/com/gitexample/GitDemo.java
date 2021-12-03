@@ -7,6 +7,7 @@ public class GitDemo {
 		
 		
 		System.out.println("This is my First Git Project");
+		System.out.println("This is my First Git Project1");
 
 	}
 
